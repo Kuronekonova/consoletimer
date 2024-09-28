@@ -5,8 +5,6 @@
 
 
 
-// so, this could either be something like a stopwatch, or a
-// timer, but I'll make both.
 
 
 
